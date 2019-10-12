@@ -4,5 +4,6 @@ public class main{
 		System.out.println("Hello World");//Two
 		System.out.println("Hello World");//ONE
 		System.out.println("Hello World");//TWO
+        System.out.println("ÄãºÃ£¬ÊÀ½ç");//TWO
 	}
 }
